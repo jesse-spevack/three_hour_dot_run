@@ -9,7 +9,6 @@ excerpt: Today I begin training for a three hour marathon.
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
-
 ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.

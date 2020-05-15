@@ -1,11 +1,14 @@
 ---
-title: 'Demo Post'
-date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
-excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+title: 'What does 3 Hours Mean?'
+date: 2020-05-14 00:00:00
+featured_image: '/images/sunset_hill_run_2019.jpg'
+excerpt: Today I begin training for a three hour marathon.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/tucson_wide_2019.jpg)
+
+> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+
 
 ## Demo content
 

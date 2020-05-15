@@ -1,35 +1,28 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About 3 Hour Run
+subtitle: A training log for a ridiculous goal.
+description: A training log for a ridiculous goal.
+featured_image: /images/about/3.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+I am Jesse Spevack. I am going to run a 3:00 marathon. This is my marathon training log.
 
-## Features
+## Current PR: 3:24
+NYC Marathon 2015
 
-Journal is packed with powerful features to showcase your work:
+<div class="gallery" data-columns="1">
+	<img src="/images/about/2.jpg">
+	<img src="/images/about/3.jpg">
+	<img src="/images/about/4.jpg">
+	<img src="/images/about/5.jpg">
+</div>
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Most Recent Performance: 3:37
+Tucson Marathon 2019
 
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+<div class="gallery" data-columns="1">
+	<img src="/images/about/6.jpg">
+	<img src="/images/about/7.jpg">
+	<img src="/images/about/8.jpg">
+	<img src="/images/about/9.jpg">
+</div>

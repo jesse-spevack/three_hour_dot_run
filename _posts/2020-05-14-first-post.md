@@ -1,6 +1,6 @@
 ---
 title: 'What does 3 Hours Mean?'
-date: 2020-05-14 00:00:00
+date: 2020-05-14
 featured_image: '/images/sunset_hill_run_2019.jpg'
 excerpt: Today I begin training for a three hour marathon.
 ---
